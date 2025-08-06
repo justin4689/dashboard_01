@@ -13842,7 +13842,7 @@ html[data-menu-color="dark"] .logo.logo-dark {
 .leftbar-user {
   padding: 20px;
   text-align: center;
-  display: none;
+  /* display: none; */
 }
 .leftbar-user .leftbar-user-name {
   font-weight: 700;
