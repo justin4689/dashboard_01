@@ -21168,3 +21168,10 @@ pre[class*=language-] code:not(:last-of-type) {
   margin-top: 24px;
   margin-bottom: 20px;
 }
+
+
+.hr-table {
+
+  margin-top: 20px;
+  margin-bottom: 18px;
+}
